@@ -7,6 +7,11 @@ Welcome to the official repository for [**rosera**](https://richrose.dev).
 ## ✍️ The Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Workout 2nd Ed](https://richrose.dev/posts/training/books/review-python-workbook/)
+- [Certified Kubernetes Administrator &lpar;CKA&rpar; Exam](https://richrose.dev/posts/training/exams/cka/review-ace-cka/)
+- [Nix Unattended](https://richrose.dev/posts/linux/nix/nix-unattended/)
+- [Nix and MacOS Sequoia](https://richrose.dev/posts/linux/nix/nix-macos/)
+- [Git Pre-Commit Hook](https://richrose.dev/posts/dev/git/git-pre-commit/)
 <!-- BLOG-POST-LIST:END -->
 
 Visit: https://richrose.dev
