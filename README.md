@@ -21,7 +21,7 @@
 | **Mobile** | [Demo Leaderboard](https://github.com/rosera/demo_leaderboard) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 | **Mobile** | [Demo Pie Chart](https://github.com/rosera/pie_chart_demo) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 | **Mobile** | [Demo Bar Chart](https://github.com/rosera/bar_chart_demo) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-| **Mobile** | [Demo Hive Database](https://github.com/rosera/hive_demo)§ | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+| **Mobile** | [Demo Hive Database](https://github.com/rosera/hive_demo) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
 ---
