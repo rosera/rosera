@@ -1,4 +1,4 @@
-# ROSERA: Personal Repository 
+# Rich Rose 
 
 Welcome to the official repository for [**rosera**](https://richrose.dev). 
 
