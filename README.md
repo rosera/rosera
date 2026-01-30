@@ -1,6 +1,6 @@
 # Rich Rose | Author  
 
-[**Explore the Blog**](https://richrose.dev) • [**Flutter Hub**](https://richrose.dev/flutter/) • [**Nix Configs**](https://richrose.dev/nix/)
+[**Explore the Blog**](https://richrose.dev) • [**Flutter Hub**](https://richrose.dev/tags/flutter/) • [**Nix Configs**](https://richrose.dev/tags/nix/)
 
 ![Flutter](https://richrose.dev/images/fdc.jpeg)
 
@@ -28,10 +28,10 @@ I maintain curated resources and deep-dives for specific technologies:
 
 | Category | Deep Dives & Resources |
 | :--- | :--- |
-| **Mobile** | [Flutter Development](https://richrose.dev/flutter/) |
-| **Backend** | [Go (Golang)](https://richrose.dev/go/) \| [JavaScript](https://richrose.dev/javascript/) |
-| **System** | [Nix Ecosystem](https://richrose.dev/nix/) \| [Linux Guides](https://richrose.dev/tags/linux/) |
-| **Cloud** | [Google Cloud Platform](https://richrose.dev/google-cloud/) |
+| **Mobile** | [Flutter Development](https://richrose.dev/tags/flutter/) |
+| **Backend** | [Go (Golang)](https://richrose.dev/tags/go/) \| [JavaScript](https://richrose.dev/tags/javascript/) |
+| **System** | [Nix Ecosystem](https://richrose.dev/tags/nix/) \| [Linux Guides](https://richrose.dev/tags/linux/) |
+| **Cloud** | [Google Cloud Platform](https://richrose.dev/tags/google-cloud/) |
 
 ---
 
