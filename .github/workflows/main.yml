@@ -1,0 +1,23 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every 24 hours (adjust as needed)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run it manually for testing
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+        contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Replace with your actual GCS bucket URL for the index.xml
+          feed_list: "https://richrose.dev/index.xml"
+          max_post_count: 5
+          readme_path: "README.md"
