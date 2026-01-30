@@ -2,9 +2,28 @@
 
 [**Explore the Blog**](https://richrose.dev) • [**Flutter Hub**](https://richrose.dev/tags/flutter/) • [**Nix Configs**](https://richrose.dev/tags/nix/)
 
-![Flutter](https://richrose.dev/images/fdc.jpeg)
+| OReilly  | Packt
+| :--- | :--- | 
+| ![Flutter](https://richrose.dev/images/fdc.jpeg) |  ![Serverless](https://richrose.dev/images/hands-on-serverless.jpeg)
+| Flutter and Dart Cookbook 2022 | Google Cloud Serverless Cookbook 2020 
 
-![Serverless](https://richrose.dev/images/hands-on-serverless.jpeg)
+
+
+---
+
+### 🛠️ Tech Demos
+
+| Category | Tech Demo | Language
+| :--- | :--- | :----
+| **Mobile** | [Demo Certification information](https://github.com/rosera/demo_certs_exam) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+| **Mobile** | [Demo Provider](https://github.com/rosera/demo_provider) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+| **Mobile** | [Demo Sockets](https://github.com/rosera/demo_flutter_sockets) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+| **Mobile** | [Demo Leaderboard](https://github.com/rosera/demo_leaderboard) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+| **Mobile** | [Demo Pie Chart](https://github.com/rosera/pie_chart_demo) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+| **Mobile** | [Demo Bar Chart](https://github.com/rosera/bar_chart_demo) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+| **Mobile** | [Demo Hive Database](https://github.com/rosera/hive_demo)§ | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+
 ---
 
 ### 🛠️ Tech Stack & Tooling
