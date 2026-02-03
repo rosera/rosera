@@ -90,3 +90,4 @@ I maintain curated resources and deep-dives for specific technologies:
 ### 🤝 Connect with Me
 * **Website:** [richrose.dev](https://richrose.dev)
 * **GitHub:** [@rosera](https://github.com/rosera)
+* **LinkedIn:** [@rosera](https://www.linkedin.com/in/rosera/)
