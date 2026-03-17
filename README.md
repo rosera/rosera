@@ -68,10 +68,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [System_Analytics](https://richrose.dev/analytics/)
+- [Nix Ollama with Zellij](https://richrose.dev/posts/linux/nix/nix-ollama/)
 - [Nix Zellij](https://richrose.dev/posts/linux/nix/nix-zellij/)
 - [Nix Tmux](https://richrose.dev/posts/linux/nix/nix-tmux/)
 - [Python Workout 2nd Ed](https://richrose.dev/posts/training/books/review-python-workbook/)
-- [Acing the CKA Exam 2nd Edition](https://richrose.dev/posts/training/books/review-ace-cka/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
