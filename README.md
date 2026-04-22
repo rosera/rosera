@@ -17,9 +17,9 @@
 
 | Category | Tech Demo | Language
 | :--- | :--- | :----
-| **Mobile** | [Demo Certification information](https://github.com/rosera/demo_certs_exam/blob/main/README.md)) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+| **Mobile** | [Demo Certification information](https://github.com/rosera/demo_certs_exam/blob/main/README.md) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 | **Mobile** | [Demo Provider](https://github.com/rosera/demo_provider/blob/main/README.md) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-| **Mobile** | [Demo Sockets](https://github.com/rosera/demo_flutter_sockets/blob/mainREADME.md) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+| **Mobile** | [Demo Sockets](https://github.com/rosera/demo_flutter_sockets/blob/main/README.md) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 | **Mobile** | [Demo Leaderboard](https://github.com/rosera/demo_leaderboard/blob/main/README.md) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 | **Mobile** | [Demo Pie Chart](https://github.com/rosera/pie_chart_demo/blob/main/README.md) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 | **Mobile** | [Demo Bar Chart](https://github.com/rosera/bar_chart_demo/blob/main/README.md) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
