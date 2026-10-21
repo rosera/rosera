@@ -67,11 +67,11 @@
 ## ✍️ Latest from the RichRose.dev Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Host a static website &lpar;gcloud&rpar;](https://richrose.dev/posts/cloud/google-cloud/gcp-host-static-v2/)
 - [Bash Command Substitution](https://richrose.dev/posts/linux/command-substitution/)
 - [System_Analytics](https://richrose.dev/analytics/)
 - [Nix Ollama with Zellij](https://richrose.dev/posts/linux/nix/nix-ollama/)
 - [Nix Zellij](https://richrose.dev/posts/linux/nix/nix-zellij/)
-- [Nix Tmux](https://richrose.dev/posts/linux/nix/nix-tmux/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
