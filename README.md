@@ -68,7 +68,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Generating Crisp Terminal GIFs from Asciinema Files with agg](https://richrose.dev/posts/linux/asciinema-agg/agg-101/)
-- [Accessing a Local Ollama Host via SSH Tunnel](https://richrose.dev/posts/linux/ssh-tunnel-ollama/)
+- [Accessing a Local Ollama Host via SSH Tunnel](https://richrose.dev/posts/linux/ssh/ssh-tunnel-ollama/)
 - [AI Architecture &amp; Tooling Selection](https://richrose.dev/guides/ai/ai-tooling/)
 - [AI-Driven Development: From Prompts to Production](https://richrose.dev/guides/ai/ai-workflow/)
 - [Automating Development Environments with Nix and Custom Tmux Scripts](https://richrose.dev/guides/nix/nix-tmux-dev/)
